@@ -1,0 +1,4 @@
+streamlit
+pydeck
+pandas
+odp-sdk # or whatever your ODP client package is actually named
